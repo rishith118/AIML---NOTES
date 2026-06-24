@@ -1,3 +1,3 @@
-import pandas_example as pd
+import EDA as pd
 df = pd.read_csv('data.csv')
 print(df.to_string())
